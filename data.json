@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-02T18:33:44Z",
+    "updatedAt":  "2026-11-03T20:59:25Z",
     "site":  [
                  {
                      "plans":  [
@@ -62,6 +62,36 @@
                                        "type":  "A",
                                        "desc":  "RG preventa frambuesa y pimienta",
                                        "cod":  "270306"
+                                   }
+                               ],
+                     "marca":  "Natura"
+                 },
+                 {
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit mama y bebe",
+                                       "cod":  "282851"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit mama y bebe x3",
+                                       "cod":  "281682"
+                                   }
+                               ],
+                     "marca":  "Natura"
+                 },
+                 {
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kriska drama kit",
+                                       "cod":  "283681"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kriska jeans + bolsa",
+                                       "cod":  "281658"
                                    }
                                ],
                      "marca":  "Natura"
