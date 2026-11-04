@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-04T13:52:26Z",
+    "updatedAt":  "2026-11-04T14:12:15Z",
     "site":  [
                  {
                      "plans":  [
@@ -92,6 +92,36 @@
                                        "type":  "B",
                                        "desc":  "Kriska jeans + bolsa",
                                        "cod":  "281658"
+                                   }
+                               ],
+                     "marca":  "Natura"
+                 },
+                 {
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Franja",
+                                       "cod":  "282"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Franja",
+                                       "cod":  "281"
+                                   }
+                               ],
+                     "marca":  "Natura"
+                 },
+                 {
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Franja",
+                                       "cod":  "283"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Franja",
+                                       "cod":  "284"
                                    }
                                ],
                      "marca":  "Natura"
