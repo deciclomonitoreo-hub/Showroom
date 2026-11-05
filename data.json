@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-04T14:12:15Z",
+    "updatedAt":  "2026-11-05T14:50:59Z",
     "site":  [
                  {
                      "plans":  [
@@ -125,6 +125,21 @@
                                    }
                                ],
                      "marca":  "Natura"
+                 },
+                 {
+                     "plans":  [
+                                   {
+                                       "type":  "A",
+                                       "desc":  "Kit x 4 - Mascara + delineadores",
+                                       "cod":  "283102"
+                                   },
+                                   {
+                                       "type":  "B",
+                                       "desc":  "Kit x 4 - Mascara + delineadores",
+                                       "cod":  "274179"
+                                   }
+                               ],
+                     "marca":  "Avon"
                  }
              ],
     "cuotas":  {
